@@ -1,1 +1,14 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&family=Dosis&family=Open+Sans:wght@300&family=Roboto:wght@100&display=swap");
+body {
+  font-family: "Comic Neue", cursive;
+  font-family: "Dosis", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  background-image: url(./assets/img/unsplash.jpg);
+  background-color: #cccccc;
+  height: 300px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
