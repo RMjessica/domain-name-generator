@@ -1,5 +1,7 @@
 # Domain Name Generator
 
+![domainNameGenerator](https://user-images.githubusercontent.com/88908436/186728553-6348bc84-8784-44be-8a5a-ca41ff88ba8f.png)
+
 If you are interested in accessing the boilerplate with which this app got started, click on the button below.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/vanillajs-hello.git)
